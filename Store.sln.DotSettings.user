@@ -1,0 +1,34 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=030c54c7_002D7dac_002D43af_002D8ba9_002D668992455502/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DadoUmPedidoSemClienteOMesmoDeveSerInvalido" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Queries.ProductQueriesTests&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=13ed9822_002D22ea_002D4337_002Db107_002Def27824bc1ad/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="DadoUmNovoPedidoValidoEleDeveGerarUmNumeroCom8Caracteres" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmNovoPedidoValidoEleDeveGerarUmNumeroCom8Caracteres&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmNovoPedidoSeuStatusDeveSerAguardandoPagamento&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmPagamentoDoPedidoSeuStatusDeveSerAguardandoEntrega&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmPedidoCanceladoSeuStatusDeveSerCancelado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmNovoItemSemProdutoOMesmoNaoDeveSerAdicionado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmNovoItemComQuantidadeZeroOuMenorOMesmoNaoDeveSerAdicionado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmNovoPedidoValidoOSeuTotalDeveSer50&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmDescontoExpiradoOValorDoPedidoDeveSer60&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmDescontoInvalidoOValorDoPedidoDeveSer60&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmDescontoDe10OValorDoPedidoDeveSer50&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmaTaxaDeEntregaDe10OValorDoPedidoDeveSer60&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Entities.OrderTests.DadoUmPedidoSemClienteOMesmoDeveSerInvalido&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Commands.CreateOrderCommandTests.DadoUmComandInvalidoOPedidoNaoDeveSerGerado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmComandoValidoOPedidoDeveSerGerado&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=16db0bac_002D6c4b_002D4281_002D8e1f_002De857363c7079/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="DadoUmComandoValidoOPedidoDeveSerGerado" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmComandoValidoOPedidoDeveSerGerado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmPedidoSemItensOMesmoNaoDeveSerGerado&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmPromocodeInexistenteOPedidoDeveSerGeradoNormalmente&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmCepInvalidoOPedidoDeveSerGeradoNormalmente&lt;/TestId&gt;
+    &lt;TestId&gt;MSTest::1A383BA2-190E-4173-BEFA-7C616AC7A523::net7.0::Store.Tests.Handlers.OrderHandlerTests.DadoUmClienteInexistenteOPedidoNaoDeveSerGerado&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

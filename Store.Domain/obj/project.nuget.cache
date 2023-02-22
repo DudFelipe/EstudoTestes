@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "PorreI5RvAC87fYh+RVXW4/QnnsNgXBjzuG5L2mAiR7dZcflvLfWGgzt9YqtRa47tolCfXTbnGDM3lWjymhSww==",
+  "success": true,
+  "projectFilePath": "/home/dud/RiderProjects/Store/Store.Domain/Store.Domain.csproj",
+  "expectedPackageFiles": [
+    "/home/dud/.nuget/packages/flunt/2.0.5/flunt.2.0.5.nupkg.sha512"
+  ],
+  "logs": []
+}
